@@ -1,5 +1,17 @@
 body {
     font-size:125%; 
-    background: pink; 
+    background: #ffc0cb; 
     font-family: Calibri, Arial, sans-serif}
 h2 {font-size:100%}
+section.assignment {
+    background-color: #ff99aa;
+    border-style: solid;
+    border-color: #ff6680;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+a {
+    color: black;
+}
