@@ -36,7 +36,11 @@ img {
         width: 95%;
     }
 
-
+    img {
+        width: 90% !important; 
+        max-height: 100% !important;
+        height: auto !important;
+    }
 
     body {
         font-size: 125%;
