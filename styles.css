@@ -21,3 +21,18 @@ a {
     display:flex;
     flex-wrap: wrap;
 }
+
+@media only screen and (orientation: portrait) {
+    .assignments {
+      display:block;
+      flex-wrap: nowrap;
+    }
+
+    section.assignment {
+        width: 95%;
+    }
+
+    body {
+        font-size: 125%;
+    }
+  }
